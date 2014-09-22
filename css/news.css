@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* v1.0 | 20080212 Reset CSS*/ 
+
+.menu-thisbg{
+	float:left;
+	margin-bottom:-61px;
+	width:180px;
+	height:60px;
+	background:rgba(60,99,128,0.3);
+	border-bottom:1px solid #666;
+}
+
+.menu-item{
+	color:#CCFFFF;
+}
+
+.news-area{
+	margin-top:50px;
+}
+
+.news-bg{
+	float:left;
+	width:950px;
+	height:280px;
+	padding:20px;
+	line-height:18px;
+	font-color:#485865;
+	font-size:12px;
+	margin-left:12px;
+	margin-bottom:12px;
+}
+
+.news-bg div.title{
+	margin-top:10px;
+	color:#09F;
+	font-size:16px;
+}
+
+.news-bg div.describe{
+	margin-top:10px;
+}
+
+.news-bg div.describe a{
+	color:#09F;
+	text-decoration:underline;
+}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* v1.0 | 20080212 Reset CSS*/ 
+
+.menu-thisbg{
+	float:left;
+	margin-bottom:-61px;
+	margin-left:630px;
+	width:160px;
+	height:60px;
+	background:rgba(60,99,128,0.3);
+	border-bottom:1px solid #666;
+}
+
+.menu-item{
+	color:#CCFFFF;
+}
+
+.item-pic{
+	float:left;
+}
+
+.item-pic a{
+	text-decoration:underline;
+}
